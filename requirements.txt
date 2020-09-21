@@ -33,6 +33,7 @@ jupyter==1.0.0
 jupyter-client==6.1.7
 jupyter-console==6.2.0
 jupyter-core==4.6.3
+jupyter-server==0.3.0
 jupyterlab-pygments==0.1.1
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
@@ -84,6 +85,7 @@ tornado==6.0.4
 tqdm==4.49.0
 traitlets==5.0.4
 urllib3==1.25.10
+voila==0.2.2
 wasabi==0.8.0
 wcwidth==0.2.5
 webencodings==0.5.1
